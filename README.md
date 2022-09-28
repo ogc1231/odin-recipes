@@ -1,2 +1,2 @@
 # odin-recipes
-Odin recipes
+HTML only recipe website called Odin Recipes
